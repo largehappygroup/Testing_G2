@@ -1,4 +1,4 @@
-# CS xxxx: Homework #x — Instructions
+# CS 2201: Homework #x — Instructions
 
  This homework consists of two tasks: (1) MarsRover and (2) BowlingScoreKeeper. 
 
@@ -11,7 +11,7 @@
 
 ## Important Notes
 
-1. 🟢 **TestCompass:** You are *required* to use [TestCompass](https://plugins.jetbrains.com/plugin/30034-vandytest), with proper prompts, to assist you in this homework. The screen recording (explained below) you submit should demonstrate your compliance with this requirement. **TestCompass** is an IntelliJ IDEA plugin that can help you reason about what behavior to test, suggest useful test scenarios, and review whether your JUnit tests cover the task requirements; to use it, please refer to the instructions [here](https://github.com/littlehousezh/test_plugin/blob/main/README.md).
+1. 🟢 **ChatGPT:** You are *required* to use ChatGPT to assist you in this homework. The screen recording (explained below) you submit should demonstrate your compliance with this requirement.
 
 
 2. **Order of Completion:** You *must* complete the two tasks in the specified order. That is, you should begin with *MarsRover*, followed by *BowlingScoreKeeper*. You must also complete both tasks in a single session, with allowances for short breaks only. The screen recording (explained below) you submit should demonstrate your compliance with these requirements.
