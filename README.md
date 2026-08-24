@@ -1,4 +1,4 @@
-# CS 2201: Homework #x — Instructions
+# CS 2201: Extra Credits — Instructions
 
  This homework consists of two tasks: (1) MarsRover and (2) BowlingScoreKeeper. 
 
