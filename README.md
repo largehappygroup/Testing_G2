@@ -1,4 +1,4 @@
-# CS 2201: Project 0 — Instructions
+# CS 2201: Project 0 Extra Credits — Instructions
 
  This homework consists of two tasks: (1) MarsRover and (2) BowlingScoreKeeper. 
 
@@ -23,7 +23,7 @@
 In other words, you should time yourself starting at the moment when you start working in IntelliJ IDEA. The screen recording you submit should demonstrate your compliance with these timing constraints, from the initiation to the completion of each task.
 
 
-1. **Operating System:** You may use any operating system to complete this assignment, provided all activities are conducted within IntelliJ IDEA.
+1. **Operating System:** You may use any operating system to complete this task, provided all activities are conducted within IntelliJ IDEA.
 
 Below, we have provided guidance to help you get started.
 
@@ -61,7 +61,7 @@ For Linux, there are various screen recording tools available. Here's how to use
 
 ## Task 1 MarsRoverAPI
 
-**Setup Instruction**
+**Setup Instructions**
 
 1. Download or clone this repository to your local machine.
 2. Open IntelliJ IDEA.
@@ -92,7 +92,7 @@ Congratulations, you just finished Task 1. Continue to [Task 2 BowlingScoreKeepe
 
 ## Task 2 BowlingScoreKeeper
 
-**Setup Instruction**
+**Setup Instructions**
 
 1. Open the `BowlingScoreKeeper` folder as a project in IntelliJ IDEA.
 2. Review the task-specific instructions in [BowlingScoreKeeper/README.md](./BowlingScoreKeeper/README.md) before you begin editing.
