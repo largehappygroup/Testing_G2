@@ -115,7 +115,7 @@ This is also a testing task. Your goal is to add JUnit tests that check the beha
 3. You may now stop the screen recording. Save the recording to your local computer and rename it as `<VUnetID_Video_Task2>`.
 4. Compress the entire `BowlingScoreKeeper` folder into a zip file.
 5. Rename the zip file to `<VUnetID_Task2>.zip`.
-6. Submit `<VUnetID_Task2>.zip` and `<VUnetID_Video_Task2>` via Box using the link sent to your Vanderbilt email.
+6. Submit `<VUnetID_Task2>.zip` and `<VUnetID_Video_Task2>` via Box using the [link](https://vanderbilt.box.com/s/v822ewneydgpsx41qamjdhl7h8kmg915) sent to your Vanderbilt email.
 
 Congratulations, you just finished ALL tasks in this study!!! 
 
